@@ -39,7 +39,7 @@ const Navigation = () => {
           </li>
         </ul>
       </div>
-      <div>
+      <div className="socialNetwork">
           <ul>
               <li>
                   <a href="https://www.linkedin.com/in/camille-rampillon-b6054760" target="_blank" rel="noopenner noreferrer">
