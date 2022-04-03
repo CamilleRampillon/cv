@@ -50,7 +50,7 @@ export const portfolioData = [
     languages: ['react', 'css','html'],
     languagesIcons: ['fab fa-react','fab fa-css3-alt'],
     source: 'https://github.com/CamilleRampillon/CamilleRampillon_12_13012022',
-    info: 'Projet d\'études: Projet d\'études: création d\'une page va notamment permettre à l\’utilisateur de suivre le nombre de sessions réalisées ainsi que le nombre de calories brûlées.',
+    info: 'Projet d\'études: création d\'une page va notamment permettre à l\’utilisateur de suivre le nombre de sessions réalisées ainsi que le nombre de calories brûlées.',
     picture: './media/sportsee.png'
-  },
+  }
 ]
