@@ -39,6 +39,24 @@ const Navigation = () => {
           </li>
         </ul>
       </div>
+      <div>
+          <ul>
+              <li>
+                  <a href="https://www.linkedin.com/in/camille-rampillon-b6054760" target="_blank" rel="noopenner noreferrer">
+                      <i className="fab fa-linkedin"></i>
+                  </a>
+              </li>
+              <li>
+                  <a href="https://github.com/CamilleRampillon" target="_blank" rel="noopenner noreferrer">
+                      <i className="fab fa-github"></i>
+                  </a>
+              </li>
+          </ul>
+          <div className="signature">
+                <p> créé par Camille Rampillon - 2022</p>
+          </div>
+
+      </div>
     </div>
   );
 };
